@@ -10,4 +10,4 @@ Pure AngularJS -1.3.2-
 
 Clone the repo and run the index.html.
 
-Node.js server will be implemented soon. Stay tuned. 
+Do not forget to sign up https://openweathermap.org/api to get your fee api key and place it in services.js
